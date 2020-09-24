@@ -1,0 +1,8 @@
+Local:
+Declarada dentro de una función. Visible y accesible desde dentro de la función.
+
+Global:
+Declarada en cualquier lugar del código php (dentro o fuera de función). Visible y accesible desde cualquier lugar del código.
+
+Super Global:
+Declarada como array. Visible y accesible desde fuera del script php. 

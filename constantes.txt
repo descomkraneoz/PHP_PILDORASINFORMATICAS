@@ -1,0 +1,6 @@
+El nombre de las constantes ha de ir en mayúsculas.
+El nombre de las constantes no ha de llevar el símbolo $.
+Es obligatorio el uso de la función define() para definir constantes.
+El ámbito de las constantes es global por defecto.
+Las constantes no se pueden redefinir.
+Las constantes solo pueden almacenar valores escalares. No arrays por ejemplo.
